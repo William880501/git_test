@@ -1,0 +1,8 @@
+{
+    "github.compilot.chat.commitMessageGeneration.instructions":[
+        {
+            "file": "commit-rule.md"
+        }
+        
+    ]
+}
